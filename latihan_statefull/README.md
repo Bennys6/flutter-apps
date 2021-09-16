@@ -1,6 +1,6 @@
 # latihan_statefull
 
-A new Flutter project.
+Ini adalah sebuah aplikasi flutter sederhana berupa penambahan bilangan dan ukuran bilangan akan bertambah sesuai dengan pilangan yang ditambahkan, dan sebuah tombol reset untuk mereset kembali bilangan menjadi angka 0
 
 ## Getting Started
 
