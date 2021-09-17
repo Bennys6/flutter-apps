@@ -15,7 +15,14 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: Text(
             "Ini Adalah Text",
-            style: TextStyle(fontFamily: "CrashLandingBB", fontSize: (40)),
+            style: TextStyle(
+                fontFamily: "CrashLandingBB",
+                fontSize: (40),
+                fontStyle: FontStyle.italic,
+                decoration: TextDecoration.underline,
+                decorationColor: Colors.red,
+                decorationThickness: 5,
+                decorationStyle: TextDecorationStyle.wavy),
           ),
         ),
       ),
